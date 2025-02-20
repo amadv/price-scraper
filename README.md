@@ -36,7 +36,7 @@ URL_TEMPLATE=https://amazon.com/dp/{asin}
 
 ## Run the scraper
 To start scraper
-`node index.js`
+`npm start`
 
 It will:
 
