@@ -1,0 +1,33 @@
+{
+  "name": "blog-scraper",
+  "version": "1.0.0",
+  "description": "simple web scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --env-file=.env index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amadv/blog-scraper.git"
+  },
+  "keywords": [
+    "sqlite",
+    "vanilla",
+    "js",
+    "javascript",
+    "node",
+    "scraper",
+    "crawler"
+  ],
+  "author": "Aaron Madved",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amadv/blog-scraper/issues"
+  },
+  "homepage": "https://github.com/amadv/blog-scraper#readme",
+  "dependencies": {
+    "scrape-it": "^6.1.4",
+    "sqlite3": "^5.1.7"
+  }
+}
