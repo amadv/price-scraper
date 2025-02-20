@@ -1,5 +1,5 @@
 {
-  "name": "blog-scraper",
+  "name": "price-scraper",
   "version": "1.0.0",
   "description": "simple web scraper",
   "main": "index.js",
